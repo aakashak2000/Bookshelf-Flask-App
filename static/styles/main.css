@@ -1,0 +1,79 @@
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+#login{
+    text-align: center;
+}
+
+.inner{
+    display: inline-block;
+    flex: 1;
+    height: 100%;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.inner2{
+    display: inline-block;
+    flex: 1;
+    height: 100%;
+    width: 100%;
+    margin-right: 150px;
+    margin-left: 10px;
+    text-align: center;
+    border-radius: 3px;
+    border-color: black;
+}
+
+
+.btn-primary{
+    background-color: deepskyblue !important;
+    color: deepskyblue;
+    text-align: center !important;
+}
+.btn-new{
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:150px;
+    height: 350px;
+    text-align: center;
+    background-color: chartreuse;
+}
+
+.container{
+
+  margin: auto;
+  border: 3px solid green;
+  padding: 10px;
+  width: 1200px;
+}
+.imageBox{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+
+
+.center-body{
+    border-color: black;
+    border-width: 3em;
+    text-align: center;
+    align-items: center;
+}
